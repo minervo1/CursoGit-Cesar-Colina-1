@@ -1,3 +1,4 @@
 linea de ejemplo
 linea para probar los commites
 esto fue escrito desde la interfaz de Github y jalado con un pull
+volviendo del stage al area de trabajo
